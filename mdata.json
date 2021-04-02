@@ -1,0 +1,12 @@
+[
+   {
+        "my_key_value": "Imported_object_11",
+        "my_parent_id": 11,
+        "my_simple_input": "importedValue08 with date and time",
+        "my_published_value": true,
+        "my_unit": "kmpl",
+        "my_quantity_value": 36,
+        "my_date_time": "2021-03-11 02:30",
+        "my_date": "2021-12-04"
+    }
+]

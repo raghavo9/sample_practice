@@ -1,0 +1,18 @@
+[
+   {
+        "my_key_value": "Imported_object_01",
+        "my_parent_id": 11,
+        "my_simple_input": "importedValue01",
+        "my_published_value": true,
+        "my_unit": "kmpl",
+        "my_quantity_value": 26,
+    },
+    {
+        "my_key_value": "Imported_object_02",
+        "my_parent_id": 11,
+        "my_simple_input": "importedValue02",
+        "my_published_value": true,
+        "my_unit": "mpl",
+        "my_quantity_value": 32,
+    }
+]

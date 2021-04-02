@@ -1,0 +1,9 @@
+security:
+    firewalls:
+        apparels_webservice:
+                pattern: ^/webservice
+                stateless: true
+                provider: pimcore_admin
+                guard:
+                    authenticators:
+                        - AppBundle\Security\Guard\WebserviceAuthenticator
